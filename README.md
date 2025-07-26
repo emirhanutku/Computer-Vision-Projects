@@ -29,7 +29,7 @@ This repository contains three projects completed for the Computer Vision course
 **Description**  
 Implementation of a convolutional neural network to classify images into their respective categories. Includes data loading, preprocessing, model definition, training loop, evaluation metrics, and visualization of performance (accuracy, loss curves, confusion matrix).
 
-**Folder:** `Project1_Image_Classification/`
+**Folder:** `Image Classification with Convolutional Neural Networks/`
 
 **Dataset:**  
 [Image Classification Dataset (Google Drive)](https://drive.google.com/file/d/1a0uuiylWnyGAr0JZVfhw2EPZ6XzcPtyb/view?usp=sharing)
